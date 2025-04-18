@@ -6,7 +6,7 @@ Proyek ini hanyalah awalan yang akan menjadi pelajaran yang berharga
 
 ## Screenshot
 
-![Screenshot aplikasi](/path/ke/screenshot.png)
+![Screenshot aplikasi](/ss.JPG)
 
 ## Cara Instalasi
 
