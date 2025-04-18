@@ -18,9 +18,7 @@ cd nama-repo
 
 ## Fitur
 
-- Fitur 1
-- Fitur 2
-- Fitur 3
+ketika user mengklik tombol maka akan muncul kata kata random
 
 ## Teknologi yang Digunakan
 

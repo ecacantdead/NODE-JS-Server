@@ -176,7 +176,7 @@ const createMemePage = (quote, emoji) => `
     <div class="emoji">${emoji}</div>
   </div>
   <div class="nama"> eca </div>
-  <div class="kelas">X !!</div>
+  <div class="kelas"> Kelad X !!</div>
   <button onclick="window.location.reload()">Meme Baru!</button>
 </body>
 </html>
