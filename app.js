@@ -1,7 +1,7 @@
 // app.js
 const express = require("express");
 const app = express();
-const port = procces.env.PORT || 3000;
+const port = 3000;
 
 // Array kutipan absurd
 const kutipan = [
