@@ -7,7 +7,7 @@ const port = procces.env.PORT || 3000;
 const kutipan = [
   "Jangan pernah menyerah, kecuali ada diskon besar di toko online",
   "Kesuksesan itu seperti mie instan, cepat tapi tidak sehat",
-  "Hidup itu seperti sepeda, kalau berhenti ya jatuh sih",
+  "Hidup itu seperti sepeda, kal]au berhenti ya jatuh sih",
   "Jika kamu tidak bisa menjadi bintang, jadilah router WiFi, semua mencarimu",
   "Tidur siang itu tidak malas, itu menghemat energi",
   "Kalau tidak bisa membawa pulang piala, bawa pulang menu restoran saja",
